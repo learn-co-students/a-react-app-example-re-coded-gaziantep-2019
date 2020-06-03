@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+learn import React, { Component } from 'react';
 import moment from 'moment';
 import ExampleComponent from './ExampleComponent'
 import TestComponent from './TestComponent'
